@@ -47,17 +47,17 @@ Aşağıdaki görseller uygulamanın temel akışını ve arayüzünü temsil et
 
 2. Kullanıcı Ana Sayfaları - Doktor & Admin ![Ana Sayfa](screenshots/home.png) 
 
-3. Profil ve Düzenleme Sayfası  ![Profil Sayfası](screenshots/profile.png) 
+3. Profil ve Düzenleme Sayfası ![Profil Sayfası](screenshots/profile.png) 
 
-4. Randevu ve Ajanda Yönetimi  ![Ajanda](screenshots/agenda.png) 
+4. Randevu ve Ajanda Yönetimi ![Ajanda](screenshots/agenda.png) 
 
-5. Departman Sohbet Arayüzü  ![Sohbetler](screenshots/depChat.png)
+5. Departman Sohbet Arayüzü ![Sohbetler](screenshots/depChat.png)
 
 6. Özel Sohbet Arayüzü ![Sohbetler](screenshots/privChat.png)
 
 7. Gemini AI Tıbbi Asistan ![AI Asistan](screenshots/ai.png) 
 
-8. Admin Paneli  ![Admin Panel](screenshots/admin.png)
+8. Admin Paneli ![Admin Panel](screenshots/admin.png)
 
 9. Departman Listesi ![DepartmanList](screenshots/depList.png)
 
